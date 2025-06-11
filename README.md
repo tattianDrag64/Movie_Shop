@@ -12,12 +12,15 @@ You can see how the interface looks below:
 
 <img src="screenshots/2.png" width="400"/>  
 <img src="screenshots/3.png" width="400"/>
+<img src="screenshots/1.png" width="400"/>  
+<img src="screenshots/5.png" width="400"/>  
+<img src="screenshots/4.png" width="400"/>  
 
 ---
 
 ## 💾 Download
 
-👉 [Download MovieShop.exe](link-to-your-exe-file-here)
+👉 [Download MovieShop.exe]([https://github.com/tattianDrag64/Movie_Shop/blob/main/movie-shop.exe])
 
 ---
 
@@ -70,15 +73,14 @@ You can see how the interface looks below:
 
 - C++
 - OOP principles
-- File input/output
 - ASCII graphics for console interface
 
 ---
 
 ## 📁 File Structure
 
-- `main.cpp` – Main loop and program flow
-- `Movie.h / Movie.cpp` – Class for movie entity
+- `movieshop.cpp` – Main loop and program flow
+- `movieshop.h / movie-shop.cpp` – Class for movie entity
 - `data.txt` – Movie data storage
 
 ---

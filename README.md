@@ -20,7 +20,7 @@ You can see how the interface looks below:
 
 ## 💾 Download
 
-👉 [Download MovieShop.exe]([https://github.com/tattianDrag64/Movie_Shop/blob/main/movie-shop.exe])
+👉 [Download MovieShop.exe](https://github.com/tattianDrag64/Movie_Shop/blob/main/movie-shop.exe)
 
 ---
 
